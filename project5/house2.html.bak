@@ -1,0 +1,78 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="realtor.css">
+
+<style>
+.headerdiv {
+  border: 5px outset red;
+  background-color: white;  
+  }
+
+div.gallery {
+  margin: 5px;
+  width: 200px;
+}
+
+div.footer{
+border: 2px outset brown;
+}
+
+</style>
+</head>
+
+
+<h1>3d Printed House</h1>
+
+
+<body>
+
+<div class="gallery">
+    <img src="3dhouse1.jpeg" alt="3d house" width="800" height="400">
+	<caption style="text-align:center">Fully printed 3d-house</caption>
+</div>
+
+<div class="gallery">
+
+    <img src="3dhouse2.jpg" alt="dining room" width="800" height="400">
+	<caption style="text-align:center">Bathroom</caption>
+  </a>
+</div>
+
+<div class="gallery">
+    <img src="3dhouse3.jpg" alt="living room" width="800" height="400">
+	<caption style="text-align:center">Living space</caption>
+  </a>
+</div>
+
+
+<h3>Digital Alley, Milford, CT</h3>
+<div class="footer">
+<p>
+This 3d-house is straight out of the Jetsons! If you take a look at the interior of the house, you will notice that here, too, the gray polymer concrete 
+layers and round shapes dominate. The single-family house was created using polymer concrete 3D printed. Get an exclusive offer to pick out your
+custom coloring design. 
+</p>
+<dl>
+  <dt>Price</dt>
+  <dd>- $500,000</dd>
+  <dt>Bathrooms:</dt>
+  <dd>- 2 </dd>
+  <dt>Bedroom:</dt>
+  <dd> 1 </dd>
+  <dt>Furnace:</dt>
+  <dd>None</dd>
+    <dt>Chimney:</dt>
+  <dd>No</dd>
+    <dt>HVAC:</dt>
+  <dd>Yes</dd>
+    <dt>Solar Panel:</dt>
+  <dd>Yes</dd>
+</dl>
+</div>
+
+<a href="index.html">Return</a>
+
+
+</body>
+</html>

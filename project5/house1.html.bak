@@ -1,0 +1,76 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="realtor.css">
+
+<style>
+.headerdiv {
+  border: 5px outset red;
+  background-color: white;  
+  }
+
+div.gallery {
+  margin: 5px;
+  width: 200px;
+}
+
+div.footer{
+border: 2px outset brown;
+}
+
+</style>
+</head>
+
+
+<h1>Classical House</h1>
+</head>
+
+
+
+<body>
+<div class="gallery">
+    <img src="bluehouse1.jpeg" alt="blue house" width="800" height="400">
+	<caption style="text-align:center" color: brown>Sunset house in suburbia</caption>
+</div>
+
+<div class="gallery">
+
+    <img src="bluehouse2.jpeg" alt="dining room" width="800" height="400">
+	<caption style="text-align:center">Dining room</caption>
+  </a>
+</div>
+
+<div class="gallery">
+    <img src="bluehouse3.jpeg" alt="living room" width="800" height="400">
+	<caption style="text-align:center">Living room</caption>
+  </a>
+</div>
+<br />
+
+<h3>Blue Meadows Lane, Milford, CT</h3>
+<div class="footer">
+<p>
+This beautiful scenic house resides between the sunny culdesac in surbubia this hoouse is perfect
+for the family just getting on its feet and ready to start a new life. This picturesque house is available but dont sit on your hands the markets hot 
+so get it while its hot, folks!
+</p>
+
+<dl>
+  <dt>Price</dt>
+  <dd>- $800,000</dd>
+  <dt>Bathrooms:</dt>
+  <dd>- 3 </dd>
+  <dt>Bedroom:</dt>
+  <dd> 4 </dd>
+  <dt>Furnace:</dt>
+  <dd>None</dd>
+    <dt>Chimney:</dt>
+  <dd>None</dd>
+    <dt>HVAC:</dt>
+  <dd>Yes</dd>
+</dl>
+
+<a href="index.html">Return</a>
+</div>
+</body>
+</html>

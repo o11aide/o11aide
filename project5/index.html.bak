@@ -1,0 +1,122 @@
+<!--Olaide Bamisile-->
+<!--Project 5-->
+<!---->
+<html>
+
+<head>
+<link rel="stylesheet" href="realtor.css">
+<style>
+.headerdiv {
+  border: 5px outset brown;
+  background-color: powderblue;  
+  }
+
+.bodydiv{	
+	image:center;
+}  
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footerdiv{
+table border ="1" 
+  text-align: center;
+  padding: 3px;
+}
+
+
+</style>
+
+<title></title>
+<div class ="headerdiv">
+<h1>Lets Sell Houses!<sup>TM</sup></h1>
+</div>
+
+</head>
+<br />
+
+<div class= "bodydiv">
+<body>
+<img src="office.jpg" height="400" width="600" alt="my office space" style="vertical-align:middle">
+<br />
+<br />
+
+<table style="width:75%">
+  <tr>
+    <th colspan="3">Office Hours</th>
+  </tr>
+  <tr>
+    <th>Date</th>
+    <th>Open</th>
+    <th>Close</th>
+  </tr>
+  <tr>
+    <td>Monday</td>
+    <td>9am</td>
+    <td>5pm</td>
+  </tr>
+    <tr>
+    <td>Tuesday</td>
+    <td>9am</td>
+    <td>5pm</td>
+  </tr>
+    <tr>
+    <td>Wednesday</td>
+    <td>9am</td>
+    <td>5pm</td>
+  </tr>
+    <tr>
+    <td>Thursday</td>
+    <td>9am</td>
+    <td>5pm</td>
+  </tr>
+    <tr>
+    <td>Friday</td>
+    <td>9am</td>
+    <td>5pm</td>
+  </tr>
+    <tr>
+    <td>Saturday</td>
+    <td rowspan="2" colspan="2">Closed</td>
+  </tr>
+    <tr>
+    <td>Sunday</td>
+  </tr>
+  
+</table>
+</div>
+<hr />
+
+<table style ="footerdiv">
+
+<tr>
+	<td> <a href="house1.html" >Classic Houses</a> </td>
+</tr>
+
+<tr>
+	<td> <a href="house2.html" >3d-house </a> </td>
+</tr>
+
+<tr>
+<td> <a href="house3.html" >Wood Houses</a> </td>
+</tr>
+
+<tr>
+<td> <a href="house4.html" >Micro-Houses</a> </td>
+</tr>
+
+<tr>
+<td> <a href="index.html" >This Page</a> </td>
+</tr>
+</div>
+</body>
+
+</html>

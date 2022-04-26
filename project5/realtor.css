@@ -1,0 +1,14 @@
+body {
+  background-color: powderblue;
+}
+h1{ text-align:center; color: brown;
+}
+h3{color: brown;}
+p {
+  color: brown;
+}
+table, th, td{ color: brown;}
+table, th, td{ border: 1px solid brown;}
+list{ color: brown;}
+dl{color:brown;}
+dt{color:brown;}

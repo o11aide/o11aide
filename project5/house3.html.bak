@@ -1,0 +1,68 @@
+<html>
+
+<head>
+<link rel="stylesheet" href="realtor.css">
+
+<style>
+
+.headerdiv {
+  border: 5px outset red;
+  background-color: white;  
+  }
+
+div.gallery {
+  margin: 5px;
+  width: 200px;
+}
+div.footer{
+border: 2px outset brown;
+}
+
+</style>
+</head>
+
+<h1>Wooden House</h1>
+
+<body>
+
+<div class="gallery">
+    <img src="woodhouse1.jpeg" alt="3d house" width="800" height="400">
+	<caption style="text-align:center">	Small wooden house</caption>
+</div>
+
+<div class="gallery">
+
+    <img src="woodhouse2.jpeg" alt="dining room" width="800" height="400">
+	<caption style="text-align:center">Hallway</caption>
+  </a>
+</div>
+
+<div class="gallery">
+    <img src="woodhouse3.jpeg" alt="living room" width="800" height="400">
+	<caption style="text-align:center">Kitchen</caption>
+  </a>
+</div>
+
+<h3>Woodblock Ridge, Milford, CT</h3>
+<div class="footer">
+<p> Channel your inner Pinnochio! This hearty wooden house is made of... you guessed it wood! This compact small housing unit is pefect for millenials and zoomers looking to 
+save and have an impact their planet while living an environmentally honest life.</p>
+<dl>
+  <dt>Price:</dt>
+  <dd> $600,000</dd>
+  <dt>Bathrooms:</dt>
+  <dd> 2 </dd>
+  <dt>Bedroom:</dt>
+  <dd> 2 </dd>
+  <dt>Chimney:</dt>
+  <dd>Yes</dd>
+    <dt>Solar Panel:</dt>
+  <dd>No</dd>
+    <dt>HVAC:</dt>
+  <dd>No</dd>
+  
+</dl>
+</div>
+
+</body>
+</html>
